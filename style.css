@@ -1,0 +1,123 @@
+/* rules for icon size */
+.material-icon.md-18 {
+    font-size: 18px;
+}
+/* body */
+.main {
+    clear: both;
+    text-align: center; 
+}
+.google-logo {
+    margin-top: 12px;
+    padding-top: 112px;
+    height: 92px;
+    width: 272px;
+    text-align: center; 
+}
+#google-search-box {
+    height: 34px;
+    font-size: 16px;
+    border: none;
+    width: 440px;
+}
+#google-search-box:focus {
+    outline: none;
+}
+#google-search-box:hover {
+text-shadow: #7a7a7a 5px;
+}
+
+.my-form {
+    width: 500px;
+    box-sizing: border-box;
+    text-align: left;
+    background: rgb(254, 255, 255);
+    margin: 0 auto;
+    border: 0.01em outset #eee;
+    padding: 3px 0 3px 15px;
+    border-radius: 2px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16)
+}
+.my-form {
+    box-shadow: 0 3px 8px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline;
+    float: right;
+    text-decoration: none;
+}
+a {
+    display: block;
+    padding-bottom: 20px;
+    padding-top:16px;
+    padding-right:10px;
+    padding-left:10px;
+    background-color: #ffffff;
+    color: #000000;
+    text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
+center > input {
+    background-image: -moz-linear-gradient(top #f5f5f5, #f1f1f1);
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 2px;
+    color: #757575;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin:11px 4px;
+    margin-top: 11px;
+    margin-right: 4px;
+    margin-bottom: 11px;
+    margin-left: 4px;
+    min-width: 54px;
+    padding:0 16px;
+    padding-top: 0;
+    padding-right: 16px;
+    padding-bottom: 0;
+    padding-left: 16px;
+    text-align: center;
+    height: 36px;
+    line-height: 27px;
+}
+center > input:hover {
+color: #464343;
+border: 1px solid #c7bfbf;
+}
+#sign-in {
+    color: #ffffff;
+    float: right;
+    background-color: #0e7bf8;
+    border: 1px solid #0e7bf8;
+    border-radius: 2px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.footer {
+display: block;
+}
+
+.advertising, .business, .about {
+    float: left;
+    padding: 340px 0 0 0;
+    font-size: normal;
+}
+
+.privacy, .terms, .settings {
+    float: right; 
+    padding: 340px 0 0 0;
+    font-size: normal;
+}
