@@ -1,5 +1,5 @@
-# google_homepage
+# Google Homepage
 
 This is a google homepage project from "The odin project" curriculum.
 
-[Live preview](https://areebaishtiaq.github.io/google_homepage/)
+[Live preview](https://ribaishtiaq.github.io/google_homepage/)
